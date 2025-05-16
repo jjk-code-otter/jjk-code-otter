@@ -10,9 +10,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jjk-code-otter&show_icons=true)
 
-
-## Hi there 👋
-
 <!--
 **jjk-code-otter/jjk-code-otter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
